@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "John Howell",
+      "fatherName": "Ganji",
+      "motherName": "melky-M",
+      "address": "23 Horward St.",
+      "age": "26",
+      "registrationDate": "2022-07-18",
+      "email": "Shanna@melissa.tv"
+    },
+    {
+      "name": "Micle",
+      "fatherName": "Father",
+      "motherName": "Mother",
+      "age": "21",
+      "address": "ABC Street",
+      "registrationDate": "2022-07-18",
+      "id": 3
+    }
+  ]
+}
